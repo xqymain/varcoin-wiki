@@ -31,7 +31,7 @@ note! ! Currently unstable Varcoin for Windows, performance consumption, please 
 
 http://data.varcoin.info/varcoin-v0.1a-windows.zip
 
-Shunt download: http://data.icyuyan.net/?t=qidugulingping & filename = varcoin-win / varcoin-v0.1a-windows.zip
+Shunt download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin-win/varcoin-v0.1a-windows.zip
 ## other
 
 If you are using a platform that is not supported, please download the source code and a complete Boost library for compilation, please choose GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55 or later.
