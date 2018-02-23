@@ -23,8 +23,8 @@ varcoind是varcoin加密货币的守护进程，负责同步和运行网络，�
   
   print_tx (ptx) 输出给定的转账信息  print_tx | ptx <转账哈希>
   
-  start_mining (sm) 开始挖矿操作     start_mining | sm <钱包地址>
-  
+  start_mining (sm) 开始挖矿操作     start_mining | sm <钱包地址> [<线程数>]
+
   stop_mining (spm) 停止挖矿操作     stop_mining | spm
   
   print_pool    输出转账池(长格式)
@@ -40,5 +40,9 @@ varcoind是varcoin加密货币的守护进程，负责同步和运行网络，�
   set_log       设置日志级别 0-4
 
 只有当执行save或exit时才会保存区块链文件，请悉知！
+
+## 平台支持情况
+
+varcoin是基于C++开发的一款加密货币，理论可以支持所有平台，但对于各个平台的兼容情况和执行效率不同。由于varcoin是为Linux系统设计的，所以对Linux及Unix-Like兼容性较好，而对于Windows系统的兼容性较差，如果您在使用中出现问题，请告知！
 
 Enjoy :)
