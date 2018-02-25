@@ -8,13 +8,13 @@ Currently we compile and use the Boost library version 1.59.0, if you use Unix-l
 
 Complete build: http://data.varcoin.info/boost_1_59_0.zip
 
-Local Download: https://local.varcoin.info/download/boost_1_59_0.zip
+Local Download: https://varcoin.info/download/boost_1_59_0.zip
 
 Runtime version: http://data.varcoin.info/varcoin/boost-lib.zip
 
 Shunt download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/boost-lib.zip
 
-Local Download: https://local.varcoin.info/download/boost-lib.zip
+Local Download: https://varcoin.info/download/boost-lib.zip
 
 ## Varcoin for Linux
 
@@ -24,14 +24,14 @@ Ordinary: http://data.varcoin.info/varcoin-v0.1.3-fixed.zip (built-in Boost runt
 
 Shunt Download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/varcoin-v0.1.3.zip
 
-Local Download: https://local.varcoin.info/download/varcoin-v0.1.3-fixed.zip
+Local Download: https://varcoin.info/download/varcoin-v0.1.3-fixed.zip
 
 
 Compatible with: http://data.varcoin.info/varcoin-v0.1.4-alpha-native.zip
 
 Shunt download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/varcoin-v0.1.4-fixed.zip
 
-Local download: https://local.varcoin.info/download/varcoin-v0.1.4-alpha-native.zip
+Local download: https://varcoin.info/download/varcoin-v0.1.4-alpha-native.zip
 
 ## Varcoin for Windows
 
@@ -41,7 +41,7 @@ Qiniu download: http://data.varcoin.info/varcoin-v0.1a-windows.zip
 
 Shunt download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin-win/varcoin-v0.1a-windows.zip
 
-Local download: https://local.varcoin.info/download/varcoin-v0.1a-windows.zip
+Local download: https://varcoin.info/download/varcoin-v0.1a-windows.zip
 
 ## Other
 
@@ -60,14 +60,14 @@ varcoin二进制文件以及依赖已上传七牛云，您可以下载使用。(
 ### 完整编译版：
 七牛下载：http://data.varcoin.info/boost_1_59_0.zip
 
-本地下载：https://local.varcoin.info/download/boost_1_59_0.zip
+本地下载：https://varcoin.info/download/boost_1_59_0.zip
 
 ### 运行时版：
 七牛下载：http://data.varcoin.info/varcoin/boost-lib.zip
 
 分流下载：http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/boost-lib.zip
 
-本地下载： https://local.varcoin.info/boost-lib.zip
+本地下载： https://varcoin.info/boost-lib.zip
 
 ## Varcoin for Linux
 
@@ -78,14 +78,14 @@ varcoin二进制文件以及依赖已上传七牛云，您可以下载使用。(
 
 分流下载：http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/varcoin-v0.1.3.zip
 
-本地下载：https://local.varcoin.info/varcoin-v0.1.3-fixed.zip
+本地下载：https://varcoin.info/varcoin-v0.1.3-fixed.zip
 
 ### 兼容：
 七牛下载：http://data.varcoin.info/varcoin-v0.1.4-alpha-native.zip
 
 分流下载：http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/varcoin-v0.1.4-fixed.zip
 
-本地下载：https://local.varcoin.info/varcoin-v0.1.4-alpha-native.zip
+本地下载：https://varcoin.info/varcoin-v0.1.4-alpha-native.zip
 
 
 ## Varcoin for Windows
@@ -96,7 +96,7 @@ varcoin二进制文件以及依赖已上传七牛云，您可以下载使用。(
 
 分流下载：http://data.icyuyan.net/?t=qidugulingping&filename=varcoin-win/varcoin-v0.1a-windows.zip
 
-本地下载：https://local.varcoin.info/varcoin-v0.1a-windows.zip
+本地下载：https://varcoin.info/varcoin-v0.1a-windows.zip
 
 ## 其他
 
