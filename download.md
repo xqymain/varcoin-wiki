@@ -1,55 +1,70 @@
 # Download
 
-Varcoin binaries and dependencies have been uploaded Seven Niuniu, which you can download for use.(Thanks for [Dugulingping](https://blog.icyuyan.net) shunt !!!)
+Varcoin binaries and dependencies have been uploaded Qiniu, which you can download for use.(Thanks for [Dugulingping](https://blog.icyuyan.net) shunt !!!)
 
 ## Boost
 
 Currently we compile and use the Boost library version 1.59.0, if you use Unix-like system, you can choose to download the full version and run-time version
 
 Complete build: http://data.varcoin.info/boost_1_59_0.zip
-
+<!--
 Local Download: https://varcoin.info/download/boost_1_59_0.zip
-
+-->
 Runtime version: http://data.varcoin.info/varcoin/boost-lib.zip
 
 Shunt download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/boost-lib.zip
-
+<!--
 Local Download: https://varcoin.info/download/boost-lib.zip
+-->
 
 ## Varcoin for Linux
 
 We provide binaries for the Linux x86_64 family of systems, both regular and compatible,
 
-Ordinary: http://data.varcoin.info/varcoin-v0.1.3-fixed.zip (built-in Boost runtime compression package)
+Ordinary: http://data.varcoin.info/varcoin-v0.1.5.2-normal.zip (built-in Boost runtime compression package)
 
-Shunt Download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/varcoin-v0.1.3.zip
-
+Shunt Download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/varcoin-v0.1.3.zip (Please Update it!)
+<!--
 Local Download: https://varcoin.info/download/varcoin-v0.1.3-fixed.zip
+-->
 
-
-Compatible with: http://data.varcoin.info/varcoin-v0.1.4-alpha-native.zip
+Compatible with: http://data.varcoin.info/varcoin-v0.1.4-alpha-native.zip (We don't currently have such a machine for compilation. Please understand)
 
 Shunt download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin/varcoin-v0.1.4-fixed.zip
-
+<!--
 Local download: https://varcoin.info/download/varcoin-v0.1.4-alpha-native.zip
+-->
 
 ## Varcoin for Windows
 
 Note：Currently unstable Varcoin for Windows, performance consumption, please use caution!
 
-Qiniu download: http://data.varcoin.info/varcoin-v0.1a-windows.zip
+Qiniu download: http://data.varcoin.info/varcoin-v0.1a-windows.zip (We don't currently have such a machine for compilation. Please understand)
 
 Shunt download: http://data.icyuyan.net/?t=qidugulingping&filename=varcoin-win/varcoin-v0.1a-windows.zip
-
+<!--
 Local download: https://varcoin.info/download/varcoin-v0.1a-windows.zip
+-->
+
+## GUI Wallet
+
+2018-03-13 Our Qt-based GUI wallet program was officially released!
+
+Qiniu download: http://data.varcoin.info/varcoin-wallet-v0.1.5.2-build.zip
 
 ## Other
 
 If you are using a platform that is not supported, please download the source code and a complete Boost library for compilation, please choose GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55 or later.
 
+And you can get source from https://github.com/xqymain/varcoin
+
+If you have Qt, you can build GUI Wallet, get source from https://github.com/xqymain/varcoin-wallet-gui
+
+The ARM platform *CANNOT* be compiled because it does not have part of the instruction set!!!
+
 To be continued ...
 
-# Download
+<!--# Download
 
 varcoin二进制文件以及依赖已上传七牛云，您可以下载使用。(感谢[独孤伶俜](https://blog.icyuyan.net)的分流！！！)
 
@@ -103,3 +118,4 @@ varcoin二进制文件以及依赖已上传七牛云，您可以下载使用。(
 如果你使用的平台不受支持，请下载源代码和完整Boost库进行编译，编译请选用GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55 or later。
 
 未完待续...
+-->
